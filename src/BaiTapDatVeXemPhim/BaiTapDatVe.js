@@ -38,7 +38,7 @@ export default class BaiTapDatVe extends Component {
             <div className="row">
               <div className="col-8 text-center">
                 <div className="display-4 text-warning">
-                  ĐẶT VÉ XEM PHIM CYBERLEARN.VN
+                  ĐẶT VÉ XEM PHIM
                 </div>
                 <div className="mt-3 text-light" style={{ fontSize: "25px" }}>
                   Màn hình
