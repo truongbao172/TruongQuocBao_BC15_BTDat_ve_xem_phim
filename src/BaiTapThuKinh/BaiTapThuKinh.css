@@ -1,0 +1,80 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.bgKinh {
+    background-image: url(../assets/glassesImage/background.jpg);
+    background-size: 100%;
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.bgKinh h3 {
+    background-color: #00000091;
+}
+
+.thuKinh_content {
+    background-color: #00000046;
+    height: 100vh;
+}
+
+.models {
+    width: 100%;
+}
+
+.models img {
+    width: 250px;
+    height: 280px;
+}
+
+.model-right {
+    position: relative;
+}
+
+.kinh {
+    position: absolute;
+    top: 73px;
+    right: 37%;
+    opacity: 0.7;
+}
+
+.kinh img {
+    width: 140px;
+    height: 32px;
+}
+
+.overlay {
+    position: absolute;
+    right: 26%;
+    display: inline-block;
+    bottom: 0;
+    background: #ca932ead;
+    width: 251px;
+    height: 100px;
+}
+
+.title {
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: 600;
+    color: blue;
+    margin-bottom: 3px;
+}
+
+.sub_title {
+    color: white;
+    font-size: 14px;
+}
+
+.kinhClick a img {
+    width: 100%;
+    height: 50px;
+    margin-bottom: 10px;
+}
+
+.kinhClick {
+    background-color: white;
+    padding: 20px 0px;
+}
